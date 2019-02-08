@@ -16,7 +16,7 @@ import backup
 def get_local_ip():
     ips = commands.getoutput('hostname -I').split()
     for ip in ips:
-        if re.match('10.10.',ip):
+        if re.match("10.10.|10.71.",ip):
             return ip
 
 def lock():
