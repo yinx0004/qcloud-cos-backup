@@ -23,7 +23,11 @@ Documnented [here](https://docs.google.com/document/d/1oLEvmOR_dUfqLzatiyTgj8M36
 ```
 yum install -y trickle
 ```
-
+- Python packages
+```
+yum install python-argparse
+yum install MySQL-python
+```
 
 ## Installing
 Put the whole directory somewhere(eg: /opt)
