@@ -8,19 +8,19 @@ from contextlib import contextmanager
 daily_backup_date = datetime.date.today() - datetime.timedelta(days=1)
 
 garena_meta_db = {
-    'host':'203.116.180.207',
-    'user':'backup',
+    'host':'xxxxxxxx',
+    'user':'xxxxxxxx',
     'passwd':'*************',
-    'port':40019,
-    'db':'garena_meta_db',
+    'port':xxxx,
+    'db':'xxxxxxxx',
 }
 
 shopee_meta_db = {
-    'host':'10.65.145.7',
+    'host':'xxxxxxxx',
     'user':'backup',
     'passwd':'*************',
-    'port':50001,
-    'db':'garena_meta_db',
+    'port':xxxxx,
+    'db':'xxxxxxxx',
 }
 
 def parse_conf(section):

@@ -17,7 +17,6 @@ Modules:
 ### Prerequisites
 
 - Need COSFS installed.
-Documnented [here](https://docs.google.com/document/d/1oLEvmOR_dUfqLzatiyTgj8M36r_yAZZqR6Ih32JS1zg/edit#heading=h.hsk46igqgy34).
 
 - Need trickle to be installed. To limit the transfer speed to cloud.
 ```
