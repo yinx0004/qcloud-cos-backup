@@ -61,6 +61,3 @@ Put the whole directory somewhere(eg: /opt)
   trans_rate = 40000
   ```
 
-
-## Author
-yinx@seagroup.com
